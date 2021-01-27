@@ -1,14 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
-
-<a href="https://www.linkedin.com/in/micaellimedeiros">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Micaelli%20Medeiros-blue"/>
-</a>
-
-<a href="mailto:m.amedeiros@hotmail.com">
-<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
-</a>
-
-<br/>
+<img align="right" src="https://raw.githubusercontent.com/lcaua/lcaua/master/image/anime-computer-png-9-Transparent-Images.png" width="350"/>
 
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
