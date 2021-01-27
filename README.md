@@ -4,7 +4,7 @@
 
 - ⚡️ i am javascript developer
 
-- ⚛️ Node, ReactJS, Typescript
+- ⚛️ Node, ReactJS, electron
 
 - ✨ each day always looking to improve. Só agradece 🙏🙏
 <br>
