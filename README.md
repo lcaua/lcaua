@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/lcaua/lcaua/master/image/anime-computer-png-9-Transparent-Images.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/lcaua/lcaua/master/image/anime-computer-png-9-Transparent-Images.png" width="350"/><br>
 
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
