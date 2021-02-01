@@ -2,7 +2,7 @@
 
 ### Welcome to my profile! 🙃
 
-- ⚡️ i am javascript developer
+- ⚡️ i am a javascript developer
 
 - ⚛️ Node, ReactJS, React Native
 
